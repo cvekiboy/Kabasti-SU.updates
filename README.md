@@ -199,7 +199,7 @@ Dodati novu stranicu (Add new sheet) sa **[+]** ikonicom na dnu (Sheet2)
 <br>
 <br>
 
-**17. Korak:** Ponoviti ovu istu radnju za enleski format datuma koristeći E i F kolone i formule: 
+**17. Korak:** Ponoviti ovu istu radnju za engleski format datuma koristeći E i F kolone i formule: 
 `=MID(A1,1,2) & "/" & MID(A1,4,2) & "/" & MID(A1,7,4)` 
 
 ili 
