@@ -8,4 +8,4 @@ Za načine pružanje doprinosa kao i detaljnih uputstava vršenja izmena podatak
 
 Za pregled izvršenih i dostavljenih izmena prebaciti se na 🔗 [draft](https://github.com/cvekiboy/Kabasti-SU.updates/tree/draft) *Branch* (granu)  
 
-
+Test
