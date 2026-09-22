@@ -140,10 +140,10 @@
                 "mz:sr": "Čantavir",
                 "mz:hu": "Csantavér",
                 "mz:en": "Čantavir",
-                "position": "угао Србобранског пута и М. Тита",
-                "position:sr": "Ugao Srbobranskog puta i M. Tita",
-                "position:hu": "a Szenttamás út és a M. Tito sarka",
-                "position:en": "Corner of Srbobranski road and M. Tito",
+                "position": "угао Србобранске и 11. октобра, на ливади после мостића",
+                "position:sr": "ugao Srbobranske i 11. oktobra, na livadi posle mostića",
+                "position:hu": "a Szenttamás út és a oktober 11 utca sarkán, a kis hídon túli réten",
+                "position:en": "Corner of Srbobranski road and 11. october, in the meadow after the small bridge",
                 "date_from": "24.09.2026.",
                 "date_to": "25.09.2026.",
                 "date_from:sr": "24.09.2026.",
@@ -156,8 +156,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    19.7675365,
-                    45.917066
+                    19.7623745,
+                    45.9151316
                 ]
             }
         },
