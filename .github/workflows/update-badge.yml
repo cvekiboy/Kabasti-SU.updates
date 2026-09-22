@@ -24,7 +24,7 @@ jobs:
          
           # 2. Format to Serbian style with spaces after the dots: DD. MM. YYYY.
           # We use %20 here to ensure Shields.io renders the spaces correctly
-          FORMATTED="${DAY}.%20${MONTH}.%20${YEAR}."
+          FORMATTED="${DAY}. ${MONTH}. ${YEAR}."
 
           # 3. Strip leading zeroes from the month
           MONTH_NUM=$((10#$MONTH))
