@@ -378,6 +378,7 @@ Koristiti Notepad++ i izvršiti sledeće izmene:
 Koristiti Notepad++ i izvršiti sledeće izmene:  
 - "version": "*20gg.mm.dd*" (godina.mesec.dan)
 
+</details>
 <details>
   <summary>Izmene u "README.md" dokumentu</summary>
 
