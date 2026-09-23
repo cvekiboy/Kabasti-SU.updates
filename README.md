@@ -1,9 +1,13 @@
 # UPUTSTVA 
 
-U slučaju da želite pomoći u ispravci grešaka same aplikacije bez kreiranja korisničkog naloga na GitHub-u, prosledite relevantne informacije na:  
+U slučaju da želite pomoći u ispravci grešaka same aplikacije ili eventualne korekcije jezičkih prevoda bez kreiranja korisničkog naloga na GitHub-u, prosledite relevantne informacije na:  
 👉 **kabasti-su &#64; proton . me** 
 
-Za konkretan doprinos sa ulogom "Saradnik", istu mail adresu iskoristite za dostavljanje informacije GitHub korisničkog naloga da Vam se dodele prava.  
+Celokupan skup tesktualnih podataka aplikacije možete pronaći na sledećim vezama: [Subotica OSM Data](https://gist.github.com/cvekiboy/c992ace0e6ac05d64827c27a935af8bc) | [Subotica APP Data](https://gist.github.com/cvekiboy/73452590406f8c547ac3d2a19de39b0b) | [Prevodi](https://github.com/cvekiboy/Kabasti-SU.updates/blob/main/translations.json) | [Kontejneri](https://github.com/cvekiboy/Kabasti-SU.updates/blob/main/kabasti_MZs.geojson)  
+
+- Preporuka: **Raw** | **Code** *dugmad za lakši pregled i koristiti pretragu ključnih reči sa* **Ctrl** + **F** *u internet pretraživaču!*  
+
+Za konkretan doprinos sa ulogom "Saradnik", istu E-mail adresu iskoristite za dostavljanje informacije GitHub korisničkog naloga da Vam se dodele prava.  
 
 Za rad na izmenama i osvežavanju podataka same aplikacije sa lokala potrebno je instalisati sledeće programe:  
 - **Git** https://git-scm.com
@@ -17,6 +21,7 @@ Bez ovih programa moguća je izmena na samom GitHub repozitorijumu, ali nikako n
 - kabasti_MZs.geojson
 - translations.json
 - version.json
+- schedule-version.json
 - README.md
 
 (ostali se ne menjaju i ostaju netaknuti)
@@ -367,13 +372,17 @@ Koristiti Notepad++ i izvršiti sledeće izmene:
 - "translationsVersion": *y+1*
 
 </details>
+<details>
+  <summary>Izmena datuma objave u "schedule-version.json" dokumentu</summary>
+
+Koristiti Notepad++ i izvršiti sledeće izmene:  
+- "version": "*20gg.mm.dd*" (godina.mesec.dan)
 
 <details>
   <summary>Izmene u "README.md" dokumentu</summary>
 
 Koristiti Notepad++ i izvršiti sledeće izmene:  
-- Ažurirano: *Datum*
-- Opis: *link (veza) ka zvaničnom planu*
+- Aplikacija prikazuje trenutni plan od: *link unuatar zagrade -> (https://www.cistoca-su.co.rs/uploads/editor/....) ka zvaničnom planu*
 
 </details>
 
