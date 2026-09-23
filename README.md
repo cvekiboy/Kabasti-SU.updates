@@ -358,10 +358,11 @@ ili
 
 Koristiti Notepad++ i izvršiti sledeće izmene:  
 - godišnje doba
-- datume (od - do)
+- datume (od - do) *paziti na format*
 - link ka zvaničnom planu  
 
-(na sva četri jezika)  
+*Prolećna akcija | Tavaszi akció | Spring action*  
+*Jesenja akcija | Őszi akció | Autumn action*  
 
 </details>
 <details>
