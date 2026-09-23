@@ -361,8 +361,8 @@ Koristiti Notepad++ i izvršiti sledeće izmene:
 - datume (od - do) *paziti na format*
 - link ka zvaničnom planu  
 
-*Prolećna akcija | Tavaszi akció | Spring action*  
-*Jesenja akcija | Őszi akció | Autumn action*  
+*Пролећна акција | Prolećna akcija | Tavaszi akció | Spring action*  
+*Јесења акција | Jesenja akcija | Őszi akció | Autumn action*  
 
 </details>
 <details>
