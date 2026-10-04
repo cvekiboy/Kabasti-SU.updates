@@ -48,5 +48,4 @@ jobs:
           SR_BODY: ${{ inputs.sr_body }}
           HU_BODY: ${{ inputs.hu_body }}
           EN_BODY: ${{ inputs.en_body }}
-          SK_BODY: ${{ inputs.sk_body }}
         run: node scripts/send_new_schedule_fcm.js
